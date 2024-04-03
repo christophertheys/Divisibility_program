@@ -15,3 +15,5 @@ else:
     print("The number is not divisible by 2 or 5", "\n")
 
 print("The number you have typed in is {}".format(user_input_for_integer))
+
+# This is what I have just added!
